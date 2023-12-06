@@ -1,5 +1,26 @@
-absl-py==2.0.0 
-Jinja2==3.1.2 
-jsonschema==3.2.0
-matplotlib==3.7.1 
-importlib-metadata==6.0.0
+
+scikit-learn>=0.22.0 --user
+numpy!=1.24.0,>=1.20 --user
+pandas>=1.2 --user
+matplotlib!=3.6.1,>=3.3 --user
+scipy>=1.5.0 --user
+joblib>=1.1.1 --user
+threadpoolctl>=2.0.0 --user
+jinja2<3.2,>=3.1 --user
+jsonschema<4,>=3.2.0 --user
+protobuf<4,>=3.19.0 --user
+MarkupSafe>=2.0 --user
+attrs>=17.4.0 --user
+pyrsistent>=0.14.0 --user
+six>=1.11.0 --user
+setuptools==68.0.0 --user
+contourpy>=1.0.1 --user
+cycler>=0.10 --user
+fonttools>=4.22.0 --user
+kiwisolver>=1.0.1 --user
+packaging>=20.0 --user
+pillow>=6.2.0 --user
+pyparsing>=2.3.1 --user
+python-dateutil>=2.7 --user
+pytz>=2020.1 --user
+tzdata>=2022.1 --user
